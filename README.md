@@ -71,192 +71,281 @@ I work across the complete software development lifecycle — from **frontend ar
 │                                                          │
 └──────────────────────────────────────────────────────────┘
 
+```
+
 ---
 
 ## ⚡ Tech Stack
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Technologies+I+Work+With;Full-Stack+%7C+AI+%7C+Cloud" />
+</p>
+
 ### 💻 Languages
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,cs&theme=dark" />
 </p>
 
 ### 🎨 Frontend
 
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,reactnative,tailwind,vite,materialui&theme=dark" />
 </p>
 
 ### ⚙️ Backend
 
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=postman&logoColor=white"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,python&theme=dark" />
 </p>
 
-### 🤖 AI / Machine Learning
+### 🤖 AI & Machine Learning
 
-<p>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RAG-6A1B9A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI_Agents-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Agentic_Workflows-1976D2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Prompt_Engineering-00897B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
 </p>
 
-### 🗄️ Databases & Storage
+<p align="center">
+  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-6A1B9A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Agents-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Agentic%20Workflows-1976D2?style=for-the-badge" />
+</p>
 
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Vector_DB-5E35B1?style=for-the-badge"/>
+### 🗄️ Database
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,redis&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Pinecone-Vector%20Database-000000?style=for-the-badge" />
 </p>
 
 ### ☁️ Cloud & DevOps
 
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
-  <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,vercel&theme=dark" />
 </p>
 
 ### 🛠️ Tools
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman&theme=dark" />
 </p>
 
----
 
 # 🚀 Featured Projects
 
-## 🤖 AI & Intelligent Systems
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Things+I've+Built;Real-World+Software+%7C+AI+%7C+Business+Systems" />
+</p>
 
-## 🚚 FREIGHTOV — Freight Forwarding & Logistics Platform
+<table>
+<tr>
+<td width="50%" valign="top">
 
-A logistics and freight forwarding platform designed to streamline shipment management, customer operations, and freight workflows.
+### 🚚 FREIGHTOV
 
-**Tech:**
-`React` `Node.js` `Python` `PostgreSQL` `AWS`
+**Freight Forwarding & Logistics Platform**
 
-**Features**
-- 🚛 Freight forwarding management
-- 📦 Shipment & cargo management
-- 🏢 Customer & company management
-- 📋 Job and shipment workflows
-- 📊 Operations dashboard
-- 🔄 Logistics workflow automation
-- 🔐 Secure role-based access
-- ☁️ Cloud-ready architecture
+Digital platform for freight forwarding, shipment management and logistics operations.
 
-### 🧠 Sidekick — AI NL2SQL Engine
+**Stack**
 
-AI-powered system that converts natural language questions into SQL queries and streams intelligent responses.
-
-**Tech:**
-`Python` `FastAPI` `LLMs` `PostgreSQL` `RAG`
-
-**Highlights**
-- Natural Language → SQL generation
-- Streaming AI responses
-- Database-aware query generation
-- AI-powered data interaction
-
----
-
-## 💼 Recruitment & Staffing CRM
-
-A full-stack CRM designed for staffing and recruitment organizations.
-
-**Tech:**
-`React` `TypeScript` `Node.js` `Express` `PostgreSQL` `Sequelize` `JWT`
-
-**Features**
-- 👥 HR & BDM management
-- 🏢 Company & client management
-- 📋 Job requisition management
-- 👤 Candidate management
-- 🔐 Role-based access control
-- 📊 Recruitment dashboards
-- 📞 Candidate deduplication
-- 🧾 Invoice management
-- ⚡ Automated deployment
-
----
-
-## 🛒 Native Snacks — E-Commerce Platform
-
-Full-stack e-commerce ecosystem with web and mobile applications.
-
-**Tech:**
-`React` `React Native` `Node.js` `PostgreSQL` `Razorpay`
-
-**Features**
-- 🛍️ Product management
-- 🛒 Shopping cart
-- ❤️ Wishlist
-- 🎟️ Coupons
-- 💳 Razorpay payments
-- 📱 React Native mobile application
-- 👨‍💼 Admin dashboard
-- 🚀 Production deployment
-
----
-
-## 🥩 DailyMeat
-
-Modern online meat ordering platform built for web and mobile experiences.
-
-**Tech:**
-`React Native` `Python` `AWS`
+`React` `Node.js` `Python`  
+`PostgreSQL` `AWS`
 
 **Focus**
-- Mobile-first experience
-- Product management
-- Order workflows
-- Backend APIs
-- Cloud infrastructure
+
+🚛 Freight Management  
+📦 Shipment Operations  
+🏢 Customer Management  
+📊 Operations Dashboard
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🤖 Sidekick
+
+**AI NL2SQL Engine**
+
+AI-powered system that converts natural language into SQL and streams intelligent responses.
+
+**Stack**
+
+`Python` `FastAPI` `LLMs`  
+`PostgreSQL` `RAG`
+
+**Focus**
+
+🧠 Natural Language → SQL  
+⚡ Streaming AI  
+🔎 RAG  
+🗄️ Database Intelligence
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 💼 Recruitment CRM
+
+**Staffing & Recruitment Platform**
+
+Full-stack CRM for HRs, BDMs, clients, jobs and candidate management.
+
+**Stack**
+
+`React` `TypeScript` `Node.js`  
+`PostgreSQL` `JWT`
+
+**Focus**
+
+👥 HR Management  
+👤 Candidates  
+📋 Job Requisitions  
+🧾 Invoices
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🛒 Native Snacks
+
+**E-Commerce Platform**
+
+Web and mobile commerce platform with payment and administration systems.
+
+**Stack**
+
+`React` `React Native`  
+`Node.js` `PostgreSQL` `Razorpay`
+
+**Focus**
+
+🛍️ E-Commerce  
+💳 Payments  
+📱 Mobile App  
+👨‍💼 Admin Dashboard
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🥩 DailyMeat
+
+**Online Meat Delivery Platform**
+
+Mobile-first meat ordering platform.
+
+**Stack**
+
+`React Native` `Python` `AWS`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧠 AI Engineering
+
+**AI-Powered Systems**
+
+Exploring and building applications with:
+
+`LLMs` `RAG` `AI Agents`  
+`Multi-Agent Systems` `Agentic Workflows`
+
+</td>
+</tr>
+</table>
+
+
+<!-- ========================================================= -->
+<!--                    LANDING PAGE FOOTER                    -->
+<!-- ========================================================= -->
+
+<br>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=180&section=footer"
+    width="100%"
+  />
+</p>
+
+<h2 align="center">
+  🚀 Let's Build Something Great Together
+</h2>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Have+an+idea%3F;Need+a+Full-Stack+Developer%3F;Building+an+AI+Product%3F;Let's+turn+your+idea+into+reality+%F0%9F%9A%80"
+    alt="Footer Animation"
+  />
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mdpaizal/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <a href="mailto:mohamedpaizal2@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-Let's%20Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
+  </a>
+
+  <a href="https://github.com/mdpaizal">
+    <img
+      src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
+
+  <a href="https://portfoliomdp.vercel.app/">
+    <img
+      src="https://img.shields.io/badge/Portfolio-Visit-0E75B6?style=for-the-badge&logo=vercel&logoColor=white"
+      alt="Portfolio"
+    />
+  </a>
+</p>
+
+<br>
 
 ---
 
-# 🧩 What I Build
+<p align="center">
+  <b>💻 Full-Stack Development</b>
+  &nbsp; • &nbsp;
+  <b>🤖 AI Engineering</b>
+  &nbsp; • &nbsp;
+  <b>☁️ Cloud & DevOps</b>
+</p>
 
-```text
-┌──────────────────────────────────────────────────────┐
-│                  SOFTWARE DEVELOPMENT                │
-├──────────────────────────────────────────────────────┤
-│                                                      │
-│  🌐 Web Applications                                 │
-│  📱 Mobile Applications                              │
-│  🤖 AI Applications                                  │
-│  🧠 LLM & RAG Systems                                │
-│  🔗 AI Agents & Agentic Workflows                    │
-│  💼 CRM & Business Automation                        │
-│  🛒 E-Commerce Platforms                             │
-│  📊 Admin Dashboards                                 │
-│  🔐 Secure REST APIs                                 │
-│  ☁️ Cloud Deployments                                │
-│                                                      │
-└──────────────────────────────────────────────────────┘
+<p align="center">
+  Building scalable software, intelligent systems, and real-world digital products.
+</p>
+
+<br>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1500&color=6B7280&center=true&vCenter=true&width=600&lines=Build+%E2%80%A2+Learn+%E2%80%A2+Ship+%E2%80%A2+Improve"
+    alt="Developer Philosophy"
+  />
+</p>
+
+<p align="center">
+  <sub>© 2026 Mohamed Paizal • Crafted with ❤️ and code</sub>
+</p>
